@@ -1,0 +1,26 @@
+Aika	Maanantai	 	  	  	  	   Tiistai	 Keskiviikko	   Torstai	 Perjantai   	 Lauantai	 Sunnuntai
+06:00	Herääminen ja aamupesu(aamurutiini)						
+07:00	30 min. jooga ja aamiainen						
+08:00	Kouluun lähtö ja oppituntien aloitus						
+09:00	Oppitunnit jatkuvat						
+10:00	Oppitunnit jatkuvat						
+11:00	Lounas						
+12:00	Oppitunnit jatkuvat						
+13:00	Oppitunnit jatkuvat						
+14:00	Oppitunnit jatkuvat						
+15:00	Päivän opintojen lopettaminen						
+16:00	Kirjastoon meneminen ja uuden kirjan lainaaminen						
+17:00	Kotiin meneminen ja illallisen tekeminen						
+18:00	Illallinen ja rentoutuminen						
+19:00	Koulutehtävien tekeminen						
+20:00	Koulutehtävien jatkaminen						
+21:00	Koulutehtävien jatkaminen						
+22:00	Koulutehtävien jatkaminen						
+23:00	Nukkumaan valmistautuminen						
+00:00	Nukkuminen						
+01:00							
+02:00							
+03:00							
+04:00							
+05:00							
+							
